@@ -8,7 +8,9 @@ import java.util.ArrayList;
 import java.util.StringTokenizer;
 
 public class Bus {
-    private static ArrayList<User> users = new ArrayList<User>();
+    private static ArrayList<User> users = new ArrayList<User>();//存储所有的用户
+    private static ArrayList<UserFile> userFiles = new ArrayList<UserFile>();//UFD存储所有的用户文件
+    private static ArrayList<UserFile> openFiles = new ArrayList<UserFile>();//AFD存储打开的所有的用户文件
 
     static {
         BufferedReader bufferedReader = null;
