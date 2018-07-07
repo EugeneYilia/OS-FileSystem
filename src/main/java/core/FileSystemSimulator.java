@@ -86,10 +86,30 @@ public class FileSystemSimulator {
                     for (int i = 0; i < fileList.length; i++) {
                         if (fileList[i].isFile()) {
                             //System.out.println("文件:" + fileList[i]);
-                            System.out.println(ansi().eraseScreen().fg(Ansi.Color.RED).bg(Ansi.Color.DEFAULT).a("文件:" + fileList[i]));
+                            boolean isFound = false;
+                            for (UserFile userFile: userFiles) {
+                                if (userFile.getFileName().equalsIgnoreCase(fileList[i].getName())) {
+                                    System.out.println(ansi().eraseScreen().fg(Ansi.Color.RED).bg(Ansi.Color.DEFAULT).a("文件名:" + fileList[i].getName() + " " + "文件长度:" + userFile.getFileLength() + " " + "保护码:" + userFile.getProtectionBits() + " " + "文件路径:" + fileList[i].getAbsolutePath()));
+                                    isFound = true;
+                                    break;
+                                }
+                            }
+                            if (!isFound) {
+                                System.out.println(ansi().eraseScreen().fg(Ansi.Color.RED).bg(Ansi.Color.DEFAULT).a("文件名:" + fileList[i].getName() + " 文件地址" + fileList[i].getAbsolutePath()));
+                            }
                         } else if (fileList[i].isDirectory()) {
 //                            System.out.println("文件夹:" + fileList[i]);
-                            System.out.println(ansi().eraseScreen().fg(Ansi.Color.MAGENTA).bg(Ansi.Color.DEFAULT).a("文件夹:" + fileList[i]));
+                            boolean isFound = false;
+                            for (UserFile userFile: userFiles) {
+                                if (userFile.getFileName().equalsIgnoreCase(fileList[i].getName())) {
+                                    System.out.println(ansi().eraseScreen().fg(Ansi.Color.MAGENTA).bg(Ansi.Color.DEFAULT).a("文件名:" + fileList[i].getName() + " " + "文件长度:" + userFile.getFileLength() + " " + "保护码:" + userFile.getProtectionBits() + " " + "文件路径:" + fileList[i].getAbsolutePath()));
+                                    isFound = true;
+                                    break;
+                                }
+                            }
+                            if (!isFound) {
+                                System.out.println(ansi().eraseScreen().fg(Ansi.Color.MAGENTA).bg(Ansi.Color.DEFAULT).a("文件夹:" + fileList[i]));
+                            }
                         }
                     }
                     System.out.print(ansi().eraseScreen().fg(Ansi.Color.DEFAULT).a(""));
@@ -387,6 +407,8 @@ public class FileSystemSimulator {
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
+            } else if (coreOperation.equalsIgnoreCase("exit") || coreOperation.equalsIgnoreCase("quit")) {
+                return;
             }
         }
     }
@@ -397,6 +419,6 @@ public class FileSystemSimulator {
     }
 
     public static void showAdvancedOperation() {
-        System.out.println("ls/dir显示当前目录中的文件  pwd显示当前所在的目录  cd /进行所有用户全局目录  cd me进入用户自己的目录    showFiles显示自己的根目录的用户文件");
+        System.out.println("ls/dir显示当前目录中的文件  pwd显示当前所在的目录  cd /进行所有用户全局目录  cd me进入用户自己的目录  cd .保持当前目录    cd ..进入上一级目录    cd $Eugene|$me 返回当前用户自己的目录     showFiles显示自己的根目录的用户文件   exit|quit退出shell界面");
     }
 }
