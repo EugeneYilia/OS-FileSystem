@@ -8,7 +8,12 @@
     <artifactId>OS-FileSystem</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
-
+        <!-- https://mvnrepository.com/artifact/org.fusesource.jansi/jansi -->
+        <dependency>
+            <groupId>org.fusesource.jansi</groupId>
+            <artifactId>jansi</artifactId>
+            <version>1.17.1</version>
+        </dependency>
     </dependencies>
 
 </project>

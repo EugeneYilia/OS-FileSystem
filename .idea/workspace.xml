@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea00282-1538-48cc-affe-bbea80a55a9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/document/files.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pojo/UserFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_jansi_jansi_1_17_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document/record.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestOutputColorFont.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestgetCanonicalPath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OS-FileSystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OS-FileSystem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document/users.txt" beforeDir="false" afterPath="$PROJECT_DIR$/document/users.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/core/FileSystemSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/FileSystemSimulator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pojo/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pojo/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pojo/User.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,155 +28,76 @@
     <session id="1552130066">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
-          <entry key="txt" value="2" />
-          <entry key="xml" value="1" />
+          <entry key="class" value="1" />
+          <entry key="java" value="20" />
+          <entry key="md" value="4" />
+          <entry key="txt" value="7" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="XML" value="1" />
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="20" />
+          <entry key="Markdown" value="4" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="1822" />
-          <entry key="txt" value="59" />
+          <entry key="java" value="7016" />
+          <entry key="md" value="303" />
+          <entry key="txt" value="276" />
           <entry key="xml" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1822" />
-          <entry key="PLAIN_TEXT" value="63" />
+          <entry key="JAVA" value="7016" />
+          <entry key="Markdown" value="303" />
+          <entry key="PLAIN_TEXT" value="280" />
           <entry key="XML" value="9" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/bootstrap/Bootstrap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-              <folding>
-                <element signature="e#122#123#0" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/core/FileSystemSimulator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1222#1223#0" expanded="true" />
-                <element signature="e#1240#1241#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/document/users.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pojo/Bus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="11" column="82" selection-start-line="11" selection-start-column="82" selection-end-line="11" selection-end-column="82" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#119#125#0" expanded="true" />
-                <element signature="e#334#344#0" expanded="true" />
-                <element signature="e#412#422#0" expanded="true" />
-                <element signature="e#944#945#0" expanded="true" />
-                <element signature="e#972#973#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/document/files.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pojo/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-              <folding>
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#455#456#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pojo/UserFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-              <folding>
-                <element signature="e#557#558#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#630#631#0" expanded="true" />
-                <element signature="e#659#660#0" expanded="true" />
-                <element signature="e#392#393#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#464#465#0" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-                <element signature="e#619#620#0" expanded="true" />
-                <element signature="e#659#660#0" expanded="true" />
-                <element signature="e#719#720#0" expanded="true" />
-                <element signature="e#771#772#0" expanded="true" />
-                <element signature="e#823#824#0" expanded="true" />
-                <element signature="e#867#868#0" expanded="true" />
-                <element signature="e#981#982#0" expanded="true" />
-                <element signature="e#1012#1013#0" expanded="true" />
-                <element signature="e#1060#1061#0" expanded="true" />
-                <element signature="e#1100#1101#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.6076795">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/core/FileSystemSimulator.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="252">
+                  <caret line="94" column="64" selection-start-line="94" selection-start-column="64" selection-end-line="94" selection-end-column="64" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="152">
+                    <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -177,19 +106,49 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setRoot</find>
+      <find>se</find>
+      <find>pwd</find>
+      <find>login</find>
+      <find>File directory = new File(&quot;&quot;);//参数为空</find>
+      <find>read</find>
+      <find>close</find>
+      <find>open</find>
+      <find>PrintWriter</find>
+      <find>BufferedReader</find>
+      <find>文件</find>
+      <find>create</find>
+      <find>equals(</find>
+      <find>currentUser.getUserName</find>
+      <find>delete</find>
+      <find>userFile.getFileName().equalsIgnoreCase(fileName)</find>
+      <find>(userFile.getFileName().equalsIgnoreCase(fileName))</find>
+      <find>ls</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>(userFile.getFileName().equalsIgnoreCase(fileName) &amp;&amp; userFile.getUserName().equalsIgnoreCase(currentUser.getUserName()))</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/bootstrap/Bootstrap.java" />
-        <option value="$PROJECT_DIR$/document/users.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/pojo/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/pojo/File.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestgetCanonicalPath.java" />
+        <option value="$PROJECT_DIR$/document/users.txt" />
         <option value="$PROJECT_DIR$/src/main/java/pojo/UserFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pojo/User.java" />
+        <option value="$PROJECT_DIR$/document/description.txt" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pojo/Bus.java" />
+        <option value="$PROJECT_DIR$/document/record.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/TestOutputColorFont.java" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/core/FileSystemSimulator.java" />
       </list>
     </option>
@@ -207,159 +166,376 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-28" />
-    <option name="width" value="1234" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="328" />
+    <option name="y" value="601" />
+    <option name="width" value="1025" />
+    <option name="height" value="803" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectUserFactors">
     <factor id="binaryFeature:liftShorter">
       <dailyData date="6-7-2018">
-        <observation name="false" value="244.0" />
+        <observation name="false" value="379.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="false" value="361.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="false" value="351.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:liftShorterClasses">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="39.0" />
-        <observation name="false" value="205.0" />
+        <observation name="UNDEFINED" value="49.0" />
+        <observation name="false" value="330.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="51.0" />
+        <observation name="false" value="310.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="35.0" />
+        <observation name="false" value="316.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:middleMatching">
       <dailyData date="6-7-2018">
-        <observation name="false" value="244.0" />
+        <observation name="false" value="379.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="false" value="360.0" />
+        <observation name="true" value="1.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="false" value="350.0" />
+        <observation name="true" value="1.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:nonGeneric">
       <dailyData date="6-7-2018">
-        <observation name="0" value="78.0" />
-        <observation name="UNDEFINED" value="166.0" />
+        <observation name="0" value="134.0" />
+        <observation name="UNDEFINED" value="245.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="0" value="155.0" />
+        <observation name="UNDEFINED" value="206.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="0" value="189.0" />
+        <observation name="UNDEFINED" value="162.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_inResolveScope">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="25.0" />
-        <observation name="false" value="98.0" />
-        <observation name="true" value="121.0" />
+        <observation name="UNDEFINED" value="34.0" />
+        <observation name="false" value="149.0" />
+        <observation name="true" value="196.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="41.0" />
+        <observation name="false" value="120.0" />
+        <observation name="true" value="200.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="false" value="82.0" />
+        <observation name="true" value="242.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_openedInEditor">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="25.0" />
-        <observation name="false" value="150.0" />
-        <observation name="true" value="69.0" />
+        <observation name="UNDEFINED" value="34.0" />
+        <observation name="false" value="230.0" />
+        <observation name="true" value="115.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="41.0" />
+        <observation name="false" value="200.0" />
+        <observation name="true" value="120.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="false" value="202.0" />
+        <observation name="true" value="122.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sameDirectory">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="25.0" />
-        <observation name="false" value="163.0" />
-        <observation name="true" value="56.0" />
+        <observation name="UNDEFINED" value="34.0" />
+        <observation name="false" value="254.0" />
+        <observation name="true" value="91.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="41.0" />
+        <observation name="false" value="210.0" />
+        <observation name="true" value="110.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="false" value="250.0" />
+        <observation name="true" value="74.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sameLogicalRoot">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="25.0" />
-        <observation name="false" value="150.0" />
-        <observation name="true" value="69.0" />
+        <observation name="UNDEFINED" value="34.0" />
+        <observation name="false" value="230.0" />
+        <observation name="true" value="115.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="41.0" />
+        <observation name="false" value="196.0" />
+        <observation name="true" value="124.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="false" value="202.0" />
+        <observation name="true" value="122.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sdkOrLibrary">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="25.0" />
-        <observation name="false" value="167.0" />
-        <observation name="true" value="52.0" />
+        <observation name="UNDEFINED" value="34.0" />
+        <observation name="false" value="264.0" />
+        <observation name="true" value="81.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="41.0" />
+        <observation name="false" value="244.0" />
+        <observation name="true" value="76.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="false" value="245.0" />
+        <observation name="true" value="79.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:templates">
       <dailyData date="6-7-2018">
-        <observation name="false" value="236.0" />
-        <observation name="true" value="8.0" />
+        <observation name="false" value="369.0" />
+        <observation name="true" value="10.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="false" value="340.0" />
+        <observation name="true" value="21.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="false" value="338.0" />
+        <observation name="true" value="13.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:accessible">
       <dailyData date="6-7-2018">
-        <observation name="NORMAL" value="218.0" />
-        <observation name="UNDEFINED" value="26.0" />
+        <observation name="NORMAL" value="344.0" />
+        <observation name="UNDEFINED" value="35.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="NORMAL" value="320.0" />
+        <observation name="UNDEFINED" value="41.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="NORMAL" value="324.0" />
+        <observation name="UNDEFINED" value="27.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:expectedType">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="26.0" />
-        <observation name="expected" value="42.0" />
-        <observation name="maybeExpected" value="18.0" />
-        <observation name="normal" value="156.0" />
+        <observation name="UNDEFINED" value="35.0" />
+        <observation name="expected" value="70.0" />
+        <observation name="maybeExpected" value="23.0" />
+        <observation name="normal" value="248.0" />
+        <observation name="ofDefaultType" value="3.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="41.0" />
+        <observation name="expected" value="98.0" />
+        <observation name="maybeExpected" value="21.0" />
+        <observation name="normal" value="199.0" />
         <observation name="ofDefaultType" value="2.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="expected" value="129.0" />
+        <observation name="maybeExpected" value="12.0" />
+        <observation name="normal" value="168.0" />
+        <observation name="ofDefaultType" value="15.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:kind">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="26.0" />
-        <observation name="classNameOrGlobalStatic" value="57.0" />
-        <observation name="expectedTypeVariable" value="15.0" />
-        <observation name="normal" value="118.0" />
-        <observation name="probableKeyword" value="6.0" />
+        <observation name="OTHER" value="1.0" />
+        <observation name="UNDEFINED" value="35.0" />
+        <observation name="classNameOrGlobalStatic" value="74.0" />
+        <observation name="expectedTypeVariable" value="21.0" />
+        <observation name="normal" value="181.0" />
+        <observation name="probableKeyword" value="16.0" />
         <observation name="suitableClass" value="1.0" />
-        <observation name="variable" value="21.0" />
+        <observation name="variable" value="50.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="OTHER" value="3.0" />
+        <observation name="UNDEFINED" value="41.0" />
+        <observation name="classNameOrGlobalStatic" value="33.0" />
+        <observation name="expectedTypeVariable" value="33.0" />
+        <observation name="normal" value="140.0" />
+        <observation name="probableKeyword" value="44.0" />
+        <observation name="suitableClass" value="2.0" />
+        <observation name="variable" value="65.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="OTHER" value="7.0" />
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="classNameOrGlobalStatic" value="41.0" />
+        <observation name="expectedTypeConstant" value="1.0" />
+        <observation name="expectedTypeVariable" value="16.0" />
+        <observation name="normal" value="175.0" />
+        <observation name="probableKeyword" value="35.0" />
+        <observation name="variable" value="49.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:prox_groovyReferenceListWeigher">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="25.0" />
-        <observation name="unknown" value="219.0" />
+        <observation name="UNDEFINED" value="34.0" />
+        <observation name="unknown" value="345.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="41.0" />
+        <observation name="unknown" value="320.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="unknown" value="324.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:prox_javaInheritance">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="25.0" />
-        <observation name="false" value="54.0" />
-        <observation name="null" value="161.0" />
-        <observation name="true" value="4.0" />
+        <observation name="UNDEFINED" value="34.0" />
+        <observation name="false" value="71.0" />
+        <observation name="null" value="269.0" />
+        <observation name="true" value="5.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="41.0" />
+        <observation name="false" value="38.0" />
+        <observation name="null" value="282.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="false" value="48.0" />
+        <observation name="null" value="276.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:prox_referenceList">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="25.0" />
-        <observation name="unknown" value="219.0" />
+        <observation name="UNDEFINED" value="34.0" />
+        <observation name="unknown" value="345.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="41.0" />
+        <observation name="unknown" value="320.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="unknown" value="324.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:recursion">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="123.0" />
-        <observation name="normal" value="120.0" />
+        <observation name="UNDEFINED" value="149.0" />
+        <observation name="normal" value="229.0" />
         <observation name="recursive" value="1.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="69.0" />
+        <observation name="normal" value="292.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="41.0" />
+        <observation name="normal" value="307.0" />
+        <observation name="recursive" value="3.0" />
       </dailyData>
     </factor>
     <factor id="completionFinishedType">
       <dailyData date="6-7-2018">
-        <observation name="cancelled" value="425.0" />
-        <observation name="explicitSelect" value="174.0" />
-        <observation name="typedSelect" value="70.0" />
+        <observation name="cancelled" value="577.0" />
+        <observation name="explicitSelect" value="253.0" />
+        <observation name="typedSelect" value="126.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="cancelled" value="621.0" />
+        <observation name="explicitSelect" value="251.0" />
+        <observation name="typedSelect" value="110.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="cancelled" value="313.0" />
+        <observation name="explicitSelect" value="270.0" />
+        <observation name="typedSelect" value="81.0" />
       </dailyData>
     </factor>
     <factor id="completionType">
       <dailyData date="6-7-2018">
-        <observation name="BASIC" value="296.0" />
+        <observation name="BASIC" value="446.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="BASIC" value="423.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="BASIC" value="383.0" />
       </dailyData>
     </factor>
     <factor id="completionUsage">
       <dailyData date="6-7-2018">
-        <observation name="count" value="669.0" />
+        <observation name="count" value="956.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="count" value="982.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="count" value="664.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
       <dailyData date="6-7-2018">
-        <observation name="average" value="0.082136" />
-        <observation name="count" value="487.0" />
+        <observation name="average" value="0.110964" />
+        <observation name="count" value="757.0" />
         <observation name="max" value="1.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="0.055384" />
+        <observation name="variance" value="0.072523" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="average" value="0.144244" />
+        <observation name="count" value="721.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.107016" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="average" value="0.256776" />
+        <observation name="count" value="701.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.185901" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:grouping">
       <dailyData date="6-7-2018">
         <observation name="average" value="0.0" />
-        <observation name="count" value="487.0" />
+        <observation name="count" value="757.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="721.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="701.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -367,90 +543,247 @@
     </factor>
     <factor id="doubleFeature:mostUsed">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="244.0" />
+        <observation name="UNDEFINED" value="356.0" />
+        <observation name="average" value="-5.888889" />
+        <observation name="count" value="45.0" />
+        <observation name="max" value="-1.0" />
+        <observation name="min" value="-34.0" />
+        <observation name="variance" value="37.301715" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="288.0" />
+        <observation name="average" value="-12.834483" />
+        <observation name="count" value="145.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-44.0" />
+        <observation name="variance" value="151.588911" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="226.0" />
+        <observation name="average" value="-8.465863" />
+        <observation name="count" value="249.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-54.0" />
+        <observation name="variance" value="88.609662" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:nameEnd">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="26.0" />
-        <observation name="average" value="-0.105747" />
-        <observation name="count" value="435.0" />
+        <observation name="UNDEFINED" value="35.0" />
+        <observation name="average" value="-0.087336" />
+        <observation name="count" value="687.0" />
         <observation name="max" value="0.0" />
-        <observation name="min" value="-2.0" />
-        <observation name="variance" value="0.139442" />
+        <observation name="min" value="-3.0" />
+        <observation name="variance" value="0.135851" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="41.0" />
+        <observation name="average" value="-0.112676" />
+        <observation name="count" value="639.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-3.0" />
+        <observation name="variance" value="0.12743" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="average" value="-0.049459" />
+        <observation name="count" value="647.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-3.0" />
+        <observation name="variance" value="0.08356" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:position">
       <dailyData date="6-7-2018">
-        <observation name="average" value="0.057495" />
-        <observation name="count" value="487.0" />
+        <observation name="average" value="0.050198" />
+        <observation name="count" value="757.0" />
         <observation name="max" value="3.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="0.079047" />
+        <observation name="variance" value="0.070728" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="average" value="0.024965" />
+        <observation name="count" value="721.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.052602" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="average" value="0.085592" />
+        <observation name="count" value="701.0" />
+        <observation name="max" value="5.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.153585" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prefix">
       <dailyData date="6-7-2018">
-        <observation name="average" value="-1104.579055" />
-        <observation name="count" value="487.0" />
+        <observation name="average" value="-1093.989432" />
+        <observation name="count" value="757.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="-1252.0" />
-        <observation name="variance" value="33153.575126" />
+        <observation name="variance" value="41108.451597" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="average" value="-1098.761442" />
+        <observation name="count" value="721.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1203.0" />
+        <observation name="variance" value="60685.449639" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="average" value="-1080.378031" />
+        <observation name="count" value="701.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1203.0" />
+        <observation name="variance" value="52469.926926" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:priority">
       <dailyData date="6-7-2018">
-        <observation name="average" value="-0.059548" />
-        <observation name="count" value="487.0" />
+        <observation name="average" value="-0.051519" />
+        <observation name="count" value="757.0" />
         <observation name="max" value="1.0" />
         <observation name="min" value="-1.0" />
-        <observation name="variance" value="0.057461" />
+        <observation name="variance" value="0.05329" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="average" value="-0.008322" />
+        <observation name="count" value="721.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1.0" />
+        <observation name="variance" value="0.006323" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="701.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_explicitlyImported">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="25.0" />
-        <observation name="average" value="103.661327" />
-        <observation name="count" value="437.0" />
+        <observation name="UNDEFINED" value="34.0" />
+        <observation name="average" value="103.483309" />
+        <observation name="count" value="689.0" />
         <observation name="max" value="300.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="12336.315272" />
+        <observation name="variance" value="13311.922472" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="41.0" />
+        <observation name="average" value="114.86698" />
+        <observation name="count" value="639.0" />
+        <observation name="max" value="300.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="16379.406866" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="average" value="87.017002" />
+        <observation name="count" value="647.0" />
+        <observation name="max" value="400.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="15464.855967" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_knownElement">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="25.0" />
-        <observation name="average" value="1.638444" />
-        <observation name="count" value="437.0" />
+        <observation name="UNDEFINED" value="34.0" />
+        <observation name="average" value="1.529753" />
+        <observation name="count" value="689.0" />
         <observation name="max" value="8.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="8.491276" />
+        <observation name="variance" value="8.383218" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="41.0" />
+        <observation name="average" value="1.348983" />
+        <observation name="count" value="639.0" />
+        <observation name="max" value="8.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="7.275416" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="average" value="1.119011" />
+        <observation name="count" value="647.0" />
+        <observation name="max" value="8.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="5.82443" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_sameModule">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="25.0" />
-        <observation name="average" value="0.768879" />
-        <observation name="count" value="437.0" />
+        <observation name="UNDEFINED" value="34.0" />
+        <observation name="average" value="0.783745" />
+        <observation name="count" value="689.0" />
         <observation name="max" value="2.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="0.820458" />
+        <observation name="variance" value="0.848755" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="41.0" />
+        <observation name="average" value="0.794992" />
+        <observation name="count" value="639.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.829957" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="average" value="0.751159" />
+        <observation name="count" value="647.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.840349" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_samePsiMember">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="25.0" />
-        <observation name="average" value="0.343249" />
-        <observation name="count" value="437.0" />
+        <observation name="UNDEFINED" value="34.0" />
+        <observation name="average" value="0.412192" />
+        <observation name="count" value="689.0" />
         <observation name="max" value="2.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="0.380487" />
+        <observation name="variance" value="0.46259" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="41.0" />
+        <observation name="average" value="0.641628" />
+        <observation name="count" value="639.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.699522" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="average" value="0.429675" />
+        <observation name="count" value="647.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.568199" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:query_length">
       <dailyData date="6-7-2018">
         <observation name="average" value="0.0" />
-        <observation name="count" value="487.0" />
+        <observation name="count" value="757.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="721.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="701.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -458,38 +791,100 @@
     </factor>
     <factor id="doubleFeature:result_length">
       <dailyData date="6-7-2018">
-        <observation name="average" value="7.835729" />
-        <observation name="count" value="487.0" />
-        <observation name="max" value="31.0" />
+        <observation name="average" value="7.92074" />
+        <observation name="count" value="757.0" />
+        <observation name="max" value="39.0" />
         <observation name="min" value="1.0" />
-        <observation name="variance" value="27.839897" />
+        <observation name="variance" value="32.154303" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="average" value="7.492372" />
+        <observation name="count" value="721.0" />
+        <observation name="max" value="29.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="21.727716" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="average" value="7.051355" />
+        <observation name="count" value="701.0" />
+        <observation name="max" value="17.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="19.358593" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:sameWords">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="26.0" />
-        <observation name="average" value="-0.105747" />
-        <observation name="count" value="435.0" />
+        <observation name="UNDEFINED" value="35.0" />
+        <observation name="average" value="-0.093159" />
+        <observation name="count" value="687.0" />
         <observation name="max" value="0.0" />
-        <observation name="min" value="-2.0" />
-        <observation name="variance" value="0.139442" />
+        <observation name="min" value="-3.0" />
+        <observation name="variance" value="0.138665" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="41.0" />
+        <observation name="average" value="-0.112676" />
+        <observation name="count" value="639.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-3.0" />
+        <observation name="variance" value="0.128875" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="average" value="-0.058733" />
+        <observation name="count" value="647.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-3.0" />
+        <observation name="variance" value="0.094027" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:shorter">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="26.0" />
-        <observation name="average" value="-64.252874" />
-        <observation name="count" value="435.0" />
+        <observation name="UNDEFINED" value="35.0" />
+        <observation name="average" value="-49.391557" />
+        <observation name="count" value="687.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="-999.0" />
-        <observation name="variance" value="48732.017145" />
+        <observation name="variance" value="43303.577444" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="41.0" />
+        <observation name="average" value="-65.602504" />
+        <observation name="count" value="639.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-999.0" />
+        <observation name="variance" value="42180.108783" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="average" value="-27.746522" />
+        <observation name="count" value="647.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-999.0" />
+        <observation name="variance" value="22737.398901" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:simple">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="26.0" />
+        <observation name="UNDEFINED" value="35.0" />
         <observation name="average" value="0.0" />
-        <observation name="count" value="435.0" />
+        <observation name="count" value="687.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="41.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="639.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="647.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -498,7 +893,21 @@
     <factor id="doubleFeature:sorter">
       <dailyData date="6-7-2018">
         <observation name="average" value="1.0" />
-        <observation name="count" value="487.0" />
+        <observation name="count" value="757.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="721.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="701.0" />
         <observation name="max" value="1.0" />
         <observation name="min" value="1.0" />
         <observation name="variance" value="0.0" />
@@ -506,56 +915,137 @@
     </factor>
     <factor id="doubleFeature:statics">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="142.0" />
-        <observation name="average" value="-2.596059" />
-        <observation name="count" value="203.0" />
+        <observation name="UNDEFINED" value="256.0" />
+        <observation name="average" value="-2.608163" />
+        <observation name="count" value="245.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="-5.0" />
-        <observation name="variance" value="1.037696" />
+        <observation name="variance" value="1.194101" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="UNDEFINED" value="328.0" />
+        <observation name="average" value="-2.907692" />
+        <observation name="count" value="65.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-5.0" />
+        <observation name="variance" value="0.801689" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="UNDEFINED" value="298.0" />
+        <observation name="average" value="-4.314286" />
+        <observation name="count" value="105.0" />
+        <observation name="max" value="-3.0" />
+        <observation name="min" value="-5.0" />
+        <observation name="variance" value="0.679248" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:stats">
       <dailyData date="6-7-2018">
-        <observation name="average" value="2927.178645" />
-        <observation name="count" value="487.0" />
+        <observation name="average" value="2644.866579" />
+        <observation name="count" value="757.0" />
         <observation name="max" value="10000.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="18846764.403528" />
+        <observation name="variance" value="18501159.236742" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="average" value="2965.081831" />
+        <observation name="count" value="721.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="19180230.928656" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="average" value="3536.713267" />
+        <observation name="count" value="701.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="20698959.121643" />
       </dailyData>
     </factor>
     <factor id="itemPosition">
       <dailyData date="6-7-2018">
-        <observation name="0" value="164.0" />
-        <observation name="1" value="7.0" />
+        <observation name="0" value="238.0" />
+        <observation name="1" value="12.0" />
         <observation name="2" value="2.0" />
         <observation name="3" value="1.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="0" value="243.0" />
+        <observation name="1" value="7.0" />
+        <observation name="2" value="1.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="0" value="253.0" />
+        <observation name="1" value="11.0" />
+        <observation name="2" value="2.0" />
+        <observation name="3" value="2.0" />
+        <observation name="4" value="1.0" />
+        <observation name="5" value="1.0" />
       </dailyData>
     </factor>
     <factor id="mnemonicsUsage">
       <dailyData date="6-7-2018">
-        <observation name="total" value="156.0" />
-        <observation name="withMnemonics" value="21.0" />
+        <observation name="total" value="218.0" />
+        <observation name="withMnemonics" value="26.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="total" value="205.0" />
+        <observation name="withMnemonics" value="8.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="total" value="200.0" />
+        <observation name="withMnemonics" value="6.0" />
       </dailyData>
     </factor>
     <factor id="prefixLength">
       <dailyData date="6-7-2018">
-        <observation name="0" value="6.0" />
-        <observation name="1" value="12.0" />
+        <observation name="0" value="14.0" />
+        <observation name="1" value="21.0" />
         <observation name="10" value="1.0" />
-        <observation name="2" value="51.0" />
-        <observation name="3" value="48.0" />
-        <observation name="4" value="32.0" />
-        <observation name="5" value="17.0" />
-        <observation name="6" value="3.0" />
+        <observation name="2" value="73.0" />
+        <observation name="3" value="69.0" />
+        <observation name="4" value="46.0" />
+        <observation name="5" value="20.0" />
+        <observation name="6" value="4.0" />
         <observation name="7" value="2.0" />
-        <observation name="8" value="1.0" />
+        <observation name="8" value="2.0" />
         <observation name="9" value="1.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="0" value="14.0" />
+        <observation name="1" value="32.0" />
+        <observation name="10" value="1.0" />
+        <observation name="2" value="90.0" />
+        <observation name="3" value="57.0" />
+        <observation name="4" value="44.0" />
+        <observation name="5" value="11.0" />
+        <observation name="6" value="1.0" />
+        <observation name="7" value="1.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="0" value="19.0" />
+        <observation name="1" value="51.0" />
+        <observation name="2" value="72.0" />
+        <observation name="3" value="80.0" />
+        <observation name="4" value="34.0" />
+        <observation name="5" value="8.0" />
+        <observation name="6" value="2.0" />
+        <observation name="7" value="3.0" />
+        <observation name="8" value="1.0" />
       </dailyData>
     </factor>
     <factor id="timeBetweenTyping">
       <dailyData date="6-7-2018">
-        <observation name="average" value="192.890756" />
-        <observation name="count" value="357.0" />
+        <observation name="average" value="195.684647" />
+        <observation name="count" value="482.0" />
+      </dailyData>
+      <dailyData date="7-7-2018">
+        <observation name="average" value="168.148387" />
+        <observation name="count" value="310.0" />
+      </dailyData>
+      <dailyData date="8-7-2018">
+        <observation name="average" value="217.483395" />
+        <observation name="count" value="271.0" />
       </dailyData>
     </factor>
   </component>
@@ -618,6 +1108,19 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pojo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="OS-FileSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OS-FileSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OS-FileSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OS-FileSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -630,8 +1133,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1530882732230" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TourismManagement" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1530995660913" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OS-StorageManagement" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -650,6 +1153,47 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.Bootstrap">
+    <configuration name="Bootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bootstrap.Bootstrap" />
+      <module name="OS-FileSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bootstrap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOutputColorFont" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestOutputColorFont" />
+      <module name="OS-FileSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestgetCanonicalPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestgetCanonicalPath" />
+      <module name="OS-FileSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Bootstrap" />
+      <item itemvalue="Application.TestgetCanonicalPath" />
+      <item itemvalue="Application.TestOutputColorFont" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Bootstrap" />
+        <item itemvalue="Application.TestOutputColorFont" />
+        <item itemvalue="Application.TestgetCanonicalPath" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -660,15 +1204,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530869832942</updated>
-      <workItem from="1530869837422" duration="4965000" />
+      <workItem from="1530869837422" duration="32723000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4965000" />
+    <option name="totallyTimeSpent" value="32723000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-22" y="0" width="987" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -676,15 +1220,16 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.41119483" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1769437" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.5460993" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3328551" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3328551" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3787234" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -706,89 +1251,38 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/core/FileSystemSimulator.java</url>
+          <line>372</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/core/FileSystemSimulator.java</url>
+          <line>254</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/core/FileSystemSimulator.java</url>
+          <line>162</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/document/users.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/document/files.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pojo/UserFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-          <folding>
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#719#720#0" expanded="true" />
-            <element signature="e#771#772#0" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-            <element signature="e#867#868#0" expanded="true" />
-            <element signature="e#981#982#0" expanded="true" />
-            <element signature="e#1012#1013#0" expanded="true" />
-            <element signature="e#1060#1061#0" expanded="true" />
-            <element signature="e#1100#1101#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pojo/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pojo/Bus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="11" column="82" selection-start-line="11" selection-start-column="82" selection-end-line="11" selection-end-column="82" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#119#125#0" expanded="true" />
-            <element signature="e#334#344#0" expanded="true" />
-            <element signature="e#412#422#0" expanded="true" />
-            <element signature="e#944#945#0" expanded="true" />
-            <element signature="e#972#973#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/bootstrap/Bootstrap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        <state relative-caret-position="76">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
           <folding>
             <element signature="e#122#123#0" expanded="true" />
             <element signature="e#169#170#0" expanded="true" />
@@ -796,14 +1290,150 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/core/FileSystemSimulator.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestgetCanonicalPath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        <state relative-caret-position="133">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1222#1223#0" expanded="true" />
-            <element signature="e#1240#1241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/FileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="214" column="56" selection-start-line="214" selection-start-column="56" selection-end-line="214" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/record.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pojo/Bus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="23" selection-start-line="23" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2377#2378#0" expanded="true" />
+            <element signature="e#2405#2406#0" expanded="true" />
+            <element signature="e#2461#2462#0" expanded="true" />
+            <element signature="e#2493#2494#0" expanded="true" />
+            <element signature="e#2549#2550#0" expanded="true" />
+            <element signature="e#2581#2582#0" expanded="true" />
+            <element signature="e#2628#2629#0" expanded="true" />
+            <element signature="e#2664#2665#0" expanded="true" />
+            <element signature="e#2729#2730#0" expanded="true" />
+            <element signature="e#2778#2779#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/fusesource/jansi/jansi/1.17.1/jansi-1.17.1.jar!/org/fusesource/jansi/Ansi.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="643" column="8" lean-forward="true" selection-start-line="643" selection-start-column="8" selection-end-line="651" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/users.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pojo/UserFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestOutputColorFont.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="99" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/FileSystemSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="94" column="64" selection-start-line="94" selection-start-column="64" selection-end-line="94" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
